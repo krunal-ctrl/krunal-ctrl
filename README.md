@@ -7,6 +7,7 @@
 <br />
 
 
+
 ![krunal-ctrl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krunal-ctrl&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krunal-ctrl&layout=compact&hide_border=false)
 <br>
@@ -33,4 +34,3 @@
    <li> Flask</li>
   <li> Julia Programming Language </li>
   </ul>
-
