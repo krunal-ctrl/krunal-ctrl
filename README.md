@@ -11,11 +11,6 @@
 [twitter]: https://twitter.com/jethva_krunal
 [Email]: krunaljethva90@gmail.com
 
-<br />
-![krunal-ctrl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krunal-ctrl&show_icons=true&hide_border=true&title_color=000)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krunal-ctrl&layout=compact&hide_border=false)
-<br />
 <details>
  <summary><strong>🌱/🔭 I’m currently learning/working on ...</strong></summary>
  <ul>
@@ -30,3 +25,5 @@
 
 
 
+![krunal-ctrl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krunal-ctrl&show_icons=true&title_color=fff&icon_color=79ff97&bg_color=0000&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krunal-ctrl&layout=compact&hide_border=false)
