@@ -9,7 +9,7 @@
 
 ![krunal-ctrl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krunal-ctrl&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krunal-ctrl&layout=compact&hide_border=false)
-<br />
+<br>
 
 ### Languages and Tools:
 <img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flask/flask.png" />
@@ -20,9 +20,9 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
 <img align="left" alt="skikit-learn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
 
-<details>
+<br>
+<br>
  <summary><strong>🌱/🔭 I’m currently learning/working on ...</strong></summary>
  <ul>
    <li> Python for Data Science </li>
@@ -33,5 +33,4 @@
    <li> Flask</li>
   <li> Julia Programming Language </li>
   </ul>
-</details>
 
