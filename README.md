@@ -25,6 +25,9 @@
 ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-black?style=for-the-badge&logo=scikit-learn)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
