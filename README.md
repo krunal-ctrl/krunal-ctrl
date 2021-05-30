@@ -39,7 +39,8 @@ No Activity tracked this Week
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krunal-ctrl&layout=compact&hide_border=false&theme=solarized-dark)
 <br>
 
-
+###
+<a href="https://www.codewars.com/users/krunal-ctrl"><img src="https://www.codewars.com/users/krunal-ctrl/badges/large"></a>
 
 
 ![](https://komarev.com/ghpvc/?username=krunal-ctrl)
