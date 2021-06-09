@@ -19,11 +19,11 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-263-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-264-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 102 Contributions in the Year 2021
+> 🏆 104 Contributions in the Year 2021
  > 
 > 📦 182.1 kB Used in Github's Storage 
  > 
@@ -36,9 +36,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    125 commits    █████████████░░░░░░░░░░░░   53.19% 
-🌆 Daytime    75 commits     ████████░░░░░░░░░░░░░░░░░   31.91% 
-🌃 Evening    35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
+🌞 Morning    126 commits    █████████████░░░░░░░░░░░░   54.31% 
+🌆 Daytime    71 commits     ███████░░░░░░░░░░░░░░░░░░   30.6% 
+🌃 Evening    35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -79,6 +79,7 @@ Java                     3 repos             ████░░░░░░░�
 
 
 
+ Last Updated on 09/06/2021
 <!--END_SECTION:waka-->
 
 ### Languages and Tools:
