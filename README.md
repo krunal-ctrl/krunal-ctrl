@@ -19,7 +19,7 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-110-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-107-blue)
 
 **🐱 My Github Data** 
 
@@ -79,7 +79,7 @@ Java                     3 repos             ████░░░░░░░�
 
 
 
- Last Updated on 13/06/2021
+ Last Updated on 14/06/2021
 <!--END_SECTION:waka-->
 
 ### Languages and Tools:
